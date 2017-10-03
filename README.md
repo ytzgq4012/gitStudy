@@ -4,3 +4,5 @@ first git
 commit
 
 branch
+
+pull
