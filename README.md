@@ -2,3 +2,5 @@
 first git
 
 commit
+
+pull
